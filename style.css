@@ -5,8 +5,8 @@ h1 {
 }
 
 .logo{
-  width: 310px;
-  height: 50px;
+  width: 300px;
+  height: 130px;
 }
 
 .page-header{
@@ -129,10 +129,10 @@ h1 {
 }
 
 
-/*スキル*/
+/*品種*/
 .introduce3{
   margin: 10px 20px;
-  background-color: orangered;
+  background-color: #ff9933;
   text-align: center;
   height: 55px;
 }
@@ -166,7 +166,7 @@ h1 {
 
 .item3{
   margin: 3px;
-  background-color: orange;
+  background-color: #ff9933;
   color: #fff;
   padding: 5px;
   border-radius: 3px;
@@ -317,7 +317,7 @@ h1 {
 }
 
 .item2{
-  background-color: greenyellow;
+  background-color: #ff9933;
   color: #fff;
   padding: 5px;
   border-radius: 3px;
