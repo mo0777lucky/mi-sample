@@ -5,8 +5,8 @@ h1 {
 }
 
 .logo{
-  width: 300px;
-  height: 110px;
+  width: 250px;
+  height: 90px;
 }
 
 .page-header{
@@ -38,6 +38,18 @@ h1 {
 
 .orange {
   color: orange;
+}
+
+.introduce-all{
+  background-color: #ff9933;
+  padding: 1px 0;
+  bottom: 3px;
+}
+
+.introduce-all p{
+  font-size: 10px;
+  color: #fff;
+  text-align: center;
 }
 
 /*メイン*/
@@ -72,7 +84,7 @@ h1 {
 .big-bg p{
   font-size: 14px;
   text-align: center;
-  background-color: orange;
+  background-color: #ff9933;
   color: #fff;
   padding: 1px;
   margin: 1px 0;
@@ -108,12 +120,12 @@ h1 {
   margin-bottom: 20px;
   background-color: #ff9933;
   text-align: center;
-  height: 50px;
+  height: 40px;
 }
 
 .introduce p{
-  font-size: 30px;
-  line-height: 50px;
+  font-size: 25px;
+  line-height: 40px;
 }
 
 .description{
@@ -137,12 +149,12 @@ h1 {
   margin-bottom: 20px;
   background-color: #ff9933;
   text-align: center;
-  height: 50px;
+  height: 40px;
 }
 
 .introduce3 p{
-  font-size: 30px;
-  line-height: 50px;
+  font-size: 25px;
+  line-height: 40px;
 }
 
 .container3{
